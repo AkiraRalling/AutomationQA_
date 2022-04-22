@@ -1,0 +1,7 @@
+common_frame\Config$TimeoutsVariables.class
+pages\listrooms\ListPage.class
+common_frame\Config$Urls.class
+common_frame\Config.class
+pages\home\HomePage.class
+pages\base\BasePage.class
+common_frame\GeneralClass.class

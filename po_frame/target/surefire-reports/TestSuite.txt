@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 23.554 s <<< FAILURE! - in TestSuite
+checkIsRedirectToListing(tests.searchappartment.SearchAppartmentTest)  Time elapsed: 15.642 s  <<< FAILURE!
+java.lang.AssertionError: expected [19] but found [20]
+	at tests.searchappartment.SearchAppartmentTest.checkIsRedirectToListing(SearchAppartmentTest.java:19)
+

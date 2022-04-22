@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ALL Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="C:\Users\Lex\Desktop\git\po_frame(failed)" verbose="0">
+    <classes>
+      <class name="tests.searchappartment.SearchAppartmentTest">
+        <methods>
+          <include name="checkIsRedirectToListing"/>
+          <include name="close"/>
+          <include name="clearCookiesAndLocalStorage"/>
+        </methods>
+      </class> <!-- tests.searchappartment.SearchAppartmentTest -->
+    </classes>
+  </test> <!-- C:\Users\Lex\Desktop\git\po_frame(failed) -->
+</suite> <!-- Failed suite [ALL Test Suite] -->
